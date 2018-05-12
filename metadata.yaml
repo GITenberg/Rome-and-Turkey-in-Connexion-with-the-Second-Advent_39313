@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39940'
     url: http://www.gutenberg.org/2009/agents/39940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39313#Rome-and-Turkey-in-Connexion-with-the-Second-Advent
 gutenberg_issued: '2012-03-31'
 gutenberg_type: Text
 identifiers:
