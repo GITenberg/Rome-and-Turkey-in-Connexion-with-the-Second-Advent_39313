@@ -1,0 +1,28 @@
+_repo: Rome-and-Turkey-in-Connexion-with-the-Second-Advent_39313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2012-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Prophecies'
+- !lcsh 'Theology, Doctrinal -- Popular works'
+- !lcc 'BT'
+- !lcsh 'Second Advent'
+title: Rome and Turkey in Connexion with the Second Advent
+url: http://www.gutenberg.org/ebooks/39313
